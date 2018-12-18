@@ -6,3 +6,5 @@ to 80 columns, so that it can be projected and printed.  It occurred to me that 
 In emacs this was called the "follow" mode, and I think it would be fairly easy to implement for Netbeans using its clone feature
 and listening to the scrollpanes and keeping them adjacent.
 
+See also:
+https://netbeans.org/bugzilla/show_bug.cgi?id=2336
